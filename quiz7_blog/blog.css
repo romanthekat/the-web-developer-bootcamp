@@ -1,0 +1,28 @@
+/*font source sans pro*/
+
+body {
+  margin: auto;
+  width: 50%;
+  border: 20px #bdc3c7 solid;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.date {
+  color: #3498db;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #2c3e50;
+  text-transform: capitalize;
+}
+
+.entry {
+  margin: 20px;
+  border-bottom: 2px solid #f1f1f1;
+}
+
+.quote {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
